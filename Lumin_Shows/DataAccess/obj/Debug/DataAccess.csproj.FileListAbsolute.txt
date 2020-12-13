@@ -1,0 +1,14 @@
+C:\Users\jber5\OneDrive\NBCC\Second Year courses\DataBase_Programming_Nbcc\Lumin_Shows_Project\Lumin_Shows\DataAccess\bin\Debug\DataAccess.dll.config
+C:\Users\jber5\OneDrive\NBCC\Second Year courses\DataBase_Programming_Nbcc\Lumin_Shows_Project\Lumin_Shows\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\jber5\OneDrive\NBCC\Second Year courses\DataBase_Programming_Nbcc\Lumin_Shows_Project\Lumin_Shows\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\jber5\OneDrive\NBCC\Second Year courses\DataBase_Programming_Nbcc\Lumin_Shows_Project\Lumin_Shows\DataAccess\bin\Debug\Models.dll
+C:\Users\jber5\OneDrive\NBCC\Second Year courses\DataBase_Programming_Nbcc\Lumin_Shows_Project\Lumin_Shows\DataAccess\bin\Debug\SQLFactories.dll
+C:\Users\jber5\OneDrive\NBCC\Second Year courses\DataBase_Programming_Nbcc\Lumin_Shows_Project\Lumin_Shows\DataAccess\bin\Debug\Models.pdb
+C:\Users\jber5\OneDrive\NBCC\Second Year courses\DataBase_Programming_Nbcc\Lumin_Shows_Project\Lumin_Shows\DataAccess\bin\Debug\Models.dll.config
+C:\Users\jber5\OneDrive\NBCC\Second Year courses\DataBase_Programming_Nbcc\Lumin_Shows_Project\Lumin_Shows\DataAccess\bin\Debug\SQLFactories.pdb
+C:\Users\jber5\OneDrive\NBCC\Second Year courses\DataBase_Programming_Nbcc\Lumin_Shows_Project\Lumin_Shows\DataAccess\bin\Debug\SQLFactories.dll.config
+C:\Users\jber5\OneDrive\NBCC\Second Year courses\DataBase_Programming_Nbcc\Lumin_Shows_Project\Lumin_Shows\DataAccess\obj\Debug\DataAccess.csprojAssemblyReference.cache
+C:\Users\jber5\OneDrive\NBCC\Second Year courses\DataBase_Programming_Nbcc\Lumin_Shows_Project\Lumin_Shows\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\jber5\OneDrive\NBCC\Second Year courses\DataBase_Programming_Nbcc\Lumin_Shows_Project\Lumin_Shows\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
+C:\Users\jber5\OneDrive\NBCC\Second Year courses\DataBase_Programming_Nbcc\Lumin_Shows_Project\Lumin_Shows\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\jber5\OneDrive\NBCC\Second Year courses\DataBase_Programming_Nbcc\Lumin_Shows_Project\Lumin_Shows\DataAccess\obj\Debug\DataAccess.pdb

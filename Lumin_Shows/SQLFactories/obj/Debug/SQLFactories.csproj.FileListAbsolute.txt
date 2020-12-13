@@ -1,0 +1,11 @@
+C:\Users\jber5\OneDrive\NBCC\Second Year courses\DataBase_Programming_Nbcc\Lumin_Shows_Project\Lumin_Shows\SQLFactories\obj\Debug\SQLFactories.csprojAssemblyReference.cache
+C:\Users\jber5\OneDrive\NBCC\Second Year courses\DataBase_Programming_Nbcc\Lumin_Shows_Project\Lumin_Shows\SQLFactories\obj\Debug\SQLFactories.csproj.CoreCompileInputs.cache
+C:\Users\jber5\OneDrive\NBCC\Second Year courses\DataBase_Programming_Nbcc\Lumin_Shows_Project\Lumin_Shows\SQLFactories\bin\Debug\SQLFactories.dll.config
+C:\Users\jber5\OneDrive\NBCC\Second Year courses\DataBase_Programming_Nbcc\Lumin_Shows_Project\Lumin_Shows\SQLFactories\bin\Debug\SQLFactories.dll
+C:\Users\jber5\OneDrive\NBCC\Second Year courses\DataBase_Programming_Nbcc\Lumin_Shows_Project\Lumin_Shows\SQLFactories\bin\Debug\SQLFactories.pdb
+C:\Users\jber5\OneDrive\NBCC\Second Year courses\DataBase_Programming_Nbcc\Lumin_Shows_Project\Lumin_Shows\SQLFactories\obj\Debug\SQLFactories.dll
+C:\Users\jber5\OneDrive\NBCC\Second Year courses\DataBase_Programming_Nbcc\Lumin_Shows_Project\Lumin_Shows\SQLFactories\obj\Debug\SQLFactories.pdb
+C:\Users\jber5\OneDrive\NBCC\Second Year courses\DataBase_Programming_Nbcc\Lumin_Shows_Project\Lumin_Shows\SQLFactories\bin\Debug\Models.dll
+C:\Users\jber5\OneDrive\NBCC\Second Year courses\DataBase_Programming_Nbcc\Lumin_Shows_Project\Lumin_Shows\SQLFactories\bin\Debug\Models.pdb
+C:\Users\jber5\OneDrive\NBCC\Second Year courses\DataBase_Programming_Nbcc\Lumin_Shows_Project\Lumin_Shows\SQLFactories\bin\Debug\Models.dll.config
+C:\Users\jber5\OneDrive\NBCC\Second Year courses\DataBase_Programming_Nbcc\Lumin_Shows_Project\Lumin_Shows\SQLFactories\obj\Debug\SQLFactories.csproj.CopyComplete
