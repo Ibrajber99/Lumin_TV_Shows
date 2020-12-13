@@ -6,7 +6,7 @@ My project is about maintaining Tv shows by creating shows deleting the records 
 
 ## dependencies
 1-All you need to di s excuste the Sql scripts therei s also mock up data included
-the conenction is already set in App.config. All tyou have to do is excute the sqal scripts in SSMS.
+the conenction is already set in App.config. All tyou have to do is excute the .sql scripts in SSMS.
 
 ## Sample Images
 
